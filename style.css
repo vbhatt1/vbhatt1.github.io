@@ -1,0 +1,33 @@
+body,html {
+	background-image: url('images/wesson-wang-110739-unsplash.jpg');
+	background-size: cover;
+	background-position: center;
+	height: 100%;
+	width: 100%;
+}
+
+.text-center {
+	text-shadow: 2px 2px 2px #F9E543;
+	color: #8FBEA8;
+	font-size: 1.5rem;
+}
+
+.btn-outline-dark {
+	border: 2px solid white;
+	color: grey;
+	background-color: white
+}
+
+.btn-outline-dark:hover {
+	border: 2px solid grey;
+	color: white;
+	background-color: grey;
+}
+
+.col {
+	margin-top: 10rem;
+}
+
+
+
+
